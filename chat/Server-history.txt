@@ -1,0 +1,8 @@
+30.07.2020 22:56:17 <Server>: sysroot connected
+02.08.2020 22:43:11 <Server>: sysroot connected
+02.08.2020 22:43:14 <Server>: alex-st connected
+02.08.2020 22:43:14 <Server>: alex-st connected
+02.08.2020 22:43:36 <server>: User sysroot disconnected
+02.08.2020 22:43:36 <server>: User sysroot disconnected
+05.08.2020 12:28:37 <Server>: sysroot connected
+05.08.2020 12:30:46 <Server>: sysroot connected
